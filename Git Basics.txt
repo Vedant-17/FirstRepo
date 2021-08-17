@@ -1,0 +1,13 @@
+Ggit init - Create a new local repository
+git add -A To add all files
+git status - To check what changes you've made 
+git commit - To commit files that you've added using git add
+git diff - To show changes between commits, commit, and working tree.
+git reset - To reset the changes or to undo
+git log - To review and read history of repository
+git checkout - To navigate between the branches
+git branch - To point to a specific branch
+git merge - To merge Other branch with base branch
+git clone - To clone a repo
+git push - To upload local repository content to a remote repository
+
